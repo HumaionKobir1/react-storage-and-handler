@@ -1,0 +1,38 @@
+[
+    {
+      "id": "641fc19e7da7f7b5fc789e40",
+      "price": 212,
+      "eyeColor": "brown",
+      "name": "Lisa Jarvis"
+    },
+    {
+      "id": "641fc19ebd3934af38b1f9b0",
+      "price": 94,
+      "eyeColor": "brown",
+      "name": "Opal Bass"
+    },
+    {
+      "id": "641fc19eaaab4eafe73459e9",
+      "price": 199,
+      "eyeColor": "green",
+      "name": "Mayo Eaton"
+    },
+    {
+      "id": "641fc19e16f11e47b639c272",
+      "price": 69,
+      "eyeColor": "brown",
+      "name": "Althea Shelton"
+    },
+    {
+      "id": "641fc19ee750aa0ff2439279",
+      "price": 304,
+      "eyeColor": "blue",
+      "name": "Cote Castro"
+    },
+    {
+      "id": "641fc19e06a6391a2d798a08",
+      "price": 266,
+      "eyeColor": "green",
+      "name": "Alexis Michael"
+    }
+  ]
