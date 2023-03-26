@@ -41,8 +41,15 @@
         localStorage.removeItem('shopping-cart');
     }
 
+    const getTotalPrice = products => {
+        const reducer = (previous, current) => previous + current.price;
+        const total = products.reduce(reducer, 0);
+        return total;
+    }
+
     export{
         addToDb, 
         removeFromDb,
-        deleteShoppingCard
+        deleteShoppingCard,
+        getTotalPrice as getTotal
     };

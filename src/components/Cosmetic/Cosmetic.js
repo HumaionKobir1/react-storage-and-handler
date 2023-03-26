@@ -1,4 +1,5 @@
 import React from 'react';
+import Cosmetics from '../../Cosmetics';
 import { addToDb, deleteShoppingCard, removeFromDb } from '../../utilities/fakedb';
 import ('./Cosmetic.css')
 
@@ -17,6 +18,7 @@ const Cosmetic = (props) => {
     const deleteFromCart = () => {
         deleteShoppingCard();
     }
+
 
     return (
         <div className='product'>
